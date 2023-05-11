@@ -1,0 +1,40 @@
+{
+  "fixed": {
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "type": "color"
+    }
+  },
+  "M": {
+    "Display 1": {
+      "value": {
+        "fontFamily": "{font-display}",
+        "fontWeight": "{book}",
+        "lineHeight": "{lh-36}",
+        "fontSize": "{font-36}",
+        "letterSpacing": "{letter-spacing-none}",
+        "paragraphSpacing": "{paragraph-spacing-0}",
+        "textCase": "{text-case-none}",
+        "textDecoration": "{text-decodration}"
+      },
+      "type": "typography"
+    },
+    "Display 2": {
+      "value": {
+        "fontFamily": "{font-display}",
+        "fontWeight": "{book}",
+        "lineHeight": "{lh-24}",
+        "fontSize": "{font-24}",
+        "letterSpacing": "{letter-spacing-none}",
+        "paragraphSpacing": "{paragraph-spacing-0}",
+        "textCase": "{text-case-none}",
+        "textDecoration": "{text-decodration}"
+      },
+      "type": "typography"
+    }
+  }
+}
