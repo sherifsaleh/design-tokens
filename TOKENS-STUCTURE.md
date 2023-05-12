@@ -1,0 +1,336 @@
+# structure
+
+- design system 2.0
+
+  - core "source"
+    - color
+      - system-colors
+        - blue
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - gray
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - green
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - red
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - orange
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - yellow
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+    - spacing
+      - xs
+      - sm
+      - md
+      - lg
+      - xl
+      - xs-lg
+    - fontfamilys
+      - pensum-display
+      - gt-america
+    - fontsize
+      - xs
+      - sm
+      - md
+      - lg
+      - xl
+      - 2xl
+      - 3xl
+      - 4xl
+      - 5xl
+      - 6xl
+      - 7xl
+      - 8xl
+      - 9xl
+    - fontweights
+      - light
+      - book
+      - regular
+      - medium
+      - semibold
+      - bold
+    - lineheights
+  - shared
+
+  - nzz
+
+    - color
+      - system-colors
+        - blue
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - gray
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - green
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - red
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - orange
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+        - yellow
+          - 100
+          - 200
+          - 300
+          - 400
+          - 500
+          - 600
+          - 700
+          - 800
+          - 900
+    - spacing
+      - xs
+      - sm
+      - md
+      - lg
+      - xl
+      - xs-lg
+    - fontfamilys
+      - pensum-display
+      - gt-america
+    - fontsize
+      - xs
+      - sm
+      - md
+      - lg
+      - xl
+      - 2xl
+      - 3xl
+      - 4xl
+      - 5xl
+      - 6xl
+      - 7xl
+      - 8xl
+      - 9xl
+    - fontweights
+      - light
+      - book
+      - regular
+      - medium
+      - semibold
+      - bold
+    - lineheights
+
+      - 12
+      - 14
+      - 16
+      - 18
+      - 20
+      - 24
+      - 28
+      - 32
+      - 36
+      - 40
+      - 48
+      - 54
+      - 56
+      - 60
+      - 64
+      - 100
+      - 115
+      - 125
+      - 137.5
+      - 150
+      - 162.5
+      - 200
+
+    - shared
+
+      - color
+        - fixed
+          - white
+          - black
+        - brand decorative
+          - gray
+          - gray accent
+          - yellow
+          - yellow accent
+          - gold
+          - gold accent
+          - orange
+            =orange accent
+          - green
+          - green accent
+          - blue
+          - blue accent
+          - green smoke
+          - green smoke accent
+      - typography
+        - m
+          - display 1
+          - display 2
+          - display 3
+          - subheadline 1
+          - subheadline 2
+          - header 1
+          - header 2
+          - header 3
+          - header 4
+          - header 5
+          - header 6
+          - body
+            - base
+              - regular
+              - bold
+            - sm
+              - regular
+              - bold
+            - xs
+              - regular
+              - bold
+          - link
+          - button label base
+          - button label sm
+        - s
+          - display 1
+          - display 2
+          - display 3
+          - subheadline 1
+          - subheadline 2
+          - header 1
+          - header 2
+          - header 3
+          - header 4
+          - header 5
+          - header 6
+          - body
+            - base
+              - regular
+              - bold
+            - sm
+              - regular
+              - bold
+            - xs
+              - regular
+              - bold
+          - link
+          - button label base
+          - button label sm
+
+    - webview
+
+      - light
+
+        - color
+          - content
+            - primary
+            - secondary
+            - teriary
+            - accent
+            - emphasis
+            - overlay
+            - tertiary-overlay
+          - background
+            - primary
+            - secondary
+            - tertiary
+            - inverted
+            - accent
+            - onaccent
+            - onaccentsubtil
+            - onimage
+          - input
+            - background
+            - ...
+          - cta
+          - link
+
+      - dark
+
+    - ios
+
+      - color
+        - input
+          - background
+          - ...
+
+    - android
+
+  - dachmark
+  - bellevue
+  - ...
