@@ -101,100 +101,9 @@
 
   - nzz
 
-    - color
-      - system-colors
-        - blue
-          - 100
-          - 200
-          - 300
-          - 400
-          - 500
-          - 600
-          - 700
-          - 800
-          - 900
-        - gray
-          - 100
-          - 200
-          - 300
-          - 400
-          - 500
-          - 600
-          - 700
-          - 800
-          - 900
-        - green
-          - 100
-          - 200
-          - 300
-          - 400
-          - 500
-          - 600
-          - 700
-          - 800
-          - 900
-        - red
-          - 100
-          - 200
-          - 300
-          - 400
-          - 500
-          - 600
-          - 700
-          - 800
-          - 900
-        - orange
-          - 100
-          - 200
-          - 300
-          - 400
-          - 500
-          - 600
-          - 700
-          - 800
-          - 900
-        - yellow
-          - 100
-          - 200
-          - 300
-          - 400
-          - 500
-          - 600
-          - 700
-          - 800
-          - 900
-    - spacing
-      - xs
-      - sm
-      - md
-      - lg
-      - xl
-      - xs-lg
-    - fontfamilys
-      - pensum-display
-      - gt-america
-    - fontsize
-      - xs
-      - sm
-      - md
-      - lg
-      - xl
-      - 2xl
-      - 3xl
-      - 4xl
-      - 5xl
-      - 6xl
-      - 7xl
-      - 8xl
-      - 9xl
-    - fontweights
-      - light
-      - book
-      - regular
-      - medium
-      - semibold
-      - bold
-    - lineheights
+    - shared
+    - fixed colors
+    - typography
 
       - 12
       - 14
@@ -324,10 +233,16 @@
 
     - ios
 
-      - color
+      - light
+        - color
         - input
           - background
           - ...
+      - dark
+        - color
+          - input
+            - background
+            - ...
 
     - android
 
