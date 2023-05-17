@@ -200,12 +200,10 @@
           - link
           - button label base
           - button label sm
-
-    - webview
-
       - light
 
         - color
+
           - content
             - primary
             - secondary
@@ -230,6 +228,8 @@
           - link
 
       - dark
+
+    - web
 
     - ios
 

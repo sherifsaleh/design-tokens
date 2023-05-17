@@ -536,5 +536,29 @@
       },
       "type": "typography"
     }
+  },
+  "button-default": {
+    "value": "{0}",
+    "type": "borderRadius"
+  },
+  "button-sm": {
+    "value": "{4}",
+    "type": "borderRadius"
+  },
+  "button-lg": {
+    "value": "{8}",
+    "type": "borderRadius"
+  },
+  "input-default": {
+    "value": "{0}",
+    "type": "borderRadius"
+  },
+  "input-sm": {
+    "value": "{4}",
+    "type": "borderRadius"
+  },
+  "input-lg": {
+    "value": "{8}",
+    "type": "borderRadius"
   }
 }
