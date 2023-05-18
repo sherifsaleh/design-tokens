@@ -3,6 +3,7 @@
 - design system 2.0
 
   - core "source"
+
     - color
       - system-colors
         - blue
@@ -76,19 +77,12 @@
       - pensum-display
       - gt-america
     - fontsize
-      - xs
-      - sm
-      - md
-      - lg
-      - xl
-      - 2xl
-      - 3xl
-      - 4xl
-      - 5xl
-      - 6xl
-      - 7xl
-      - 8xl
-      - 9xl
+
+      - 12
+      - 14
+      - 16
+      - ...
+
     - fontweights
       - light
       - book
@@ -96,8 +90,12 @@
       - medium
       - semibold
       - bold
+      - black
     - lineheights
+
   - shared
+
+    - typography
 
   - nzz
 
