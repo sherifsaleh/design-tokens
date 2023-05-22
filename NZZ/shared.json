@@ -537,27 +537,27 @@
       "type": "typography"
     }
   },
-  "button-default": {
+  "button-radius-default": {
     "value": "{0}",
     "type": "borderRadius"
   },
-  "button-sm": {
+  "button-radius-sm": {
     "value": "{4}",
     "type": "borderRadius"
   },
-  "button-lg": {
+  "button-radius-lg": {
     "value": "{8}",
     "type": "borderRadius"
   },
-  "input-default": {
+  "input-radius-default": {
     "value": "{0}",
     "type": "borderRadius"
   },
-  "input-sm": {
+  "input-radius-sm": {
     "value": "{4}",
     "type": "borderRadius"
   },
-  "input-lg": {
+  "input-radius-lg": {
     "value": "{8}",
     "type": "borderRadius"
   }
