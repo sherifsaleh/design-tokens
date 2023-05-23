@@ -221,6 +221,10 @@
       "value": "#000000",
       "type": "color"
     },
+    "transparent": {
+      "value": "rgba(255, 255, 255, 0)",
+      "type": "color"
+    },
 
     "red": {
       "50": {
