@@ -924,7 +924,7 @@
       "type": "color"
     },
     "on-error": {
-      "value": "{system-colors.red.600}",
+      "value": "{system-colors.white}",
       "type": "color"
     },
     "error-container": {
@@ -940,11 +940,11 @@
       "type": "color"
     },
     "on-warning": {
-      "value": "{system-colors.yellow.600}",
+      "value": "{system-colors.white}",
       "type": "color"
     },
     "warning-container": {
-      "value": "{system-colors.yellow.100}",
+      "value": "{system-colors.white}",
       "type": "color"
     },
     "on-warning-container": {
@@ -956,7 +956,7 @@
       "type": "color"
     },
     "on-success": {
-      "value": "{system-colors.green.600}",
+      "value": "{system-colors.white}",
       "type": "color"
     },
     "success-container": {
@@ -972,7 +972,7 @@
       "type": "color"
     },
     "on-info": {
-      "value": "{system-colors.blue.600}",
+      "value": "{system-colors.white}",
       "type": "color"
     },
     "info-container": {
