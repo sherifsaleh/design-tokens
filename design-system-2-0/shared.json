@@ -2,17 +2,13 @@
   "fixed": {
     "black": {
       "value": "{system-colors.black}",
-      "type": "color"
+      "type": "color",
+      "description": "⚠️ Fixed color doesn't change when switching between light and dark mode"
     },
     "white": {
       "value": "{system-colors.white}",
-      "type": "color"
-    }
-  },
-  "brand-decorative": {
-    "gray": {
-      "value": "{system-colors.black}",
-      "type": "color"
+      "type": "color",
+      "description": "⚠️ Fixed color doesn't change when switching between light and dark mode"
     }
   },
   "M": {
@@ -62,7 +58,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-16}",
         "letterSpacing": "{letter-spacing-4%}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -77,7 +73,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-14}",
         "letterSpacing": "{letter-spacing-4%}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -149,7 +145,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-20}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -163,7 +159,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-16}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -177,7 +173,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{medium}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-135%}",
         "fontSize": "{font-16}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -191,7 +187,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-14}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -205,7 +201,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{medium}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-14}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -219,7 +215,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-12}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -233,7 +229,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{medium}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-12}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -247,7 +243,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-16}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -261,7 +257,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-16}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -275,7 +271,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-14}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -333,7 +329,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-14}",
         "letterSpacing": "{letter-spacing-4%}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -406,7 +402,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-18}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -420,7 +416,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-16}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -448,7 +444,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-14}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -462,7 +458,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{medium}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-14}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -476,7 +472,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-12}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -490,7 +486,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{medium}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-12}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -504,7 +500,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-16}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -518,7 +514,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-14}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -532,7 +528,7 @@
       "value": {
         "fontFamily": "{font-primary}",
         "fontWeight": "{regular}",
-        "lineHeight": "{lh-125%}",
+        "lineHeight": "{lh-150%}",
         "fontSize": "{font-16}",
         "letterSpacing": "{letter-spacing-none}",
         "paragraphSpacing": "{paragraph-spacing-0}",
@@ -543,27 +539,27 @@
       "type": "typography"
     }
   },
-  "button-radius-default": {
+  "button-default": {
     "value": "{0}",
     "type": "borderRadius"
   },
-  "button-radius-sm": {
+  "button-sm": {
     "value": "{4}",
     "type": "borderRadius"
   },
-  "button-radius-lg": {
+  "button-lg": {
     "value": "{8}",
     "type": "borderRadius"
   },
-  "input-radius-default": {
+  "input-default": {
     "value": "{0}",
     "type": "borderRadius"
   },
-  "input-radius-sm": {
+  "input-sm": {
     "value": "{4}",
     "type": "borderRadius"
   },
-  "input-radius-lg": {
+  "input-lg": {
     "value": "{8}",
     "type": "borderRadius"
   }
